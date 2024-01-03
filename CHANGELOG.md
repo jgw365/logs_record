@@ -10,4 +10,14 @@
 ### Tested 
 - Test manual mode: seem better than position mode 
 
+## [1.0.2]
 
+### Changed
+- Sensors calibration
+### Tested
+- Attitude mode
+
+## [1.0.3]
+
+### Tested
+- Position  mode
